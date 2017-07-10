@@ -1,5 +1,7 @@
 $(".js-back").hide();
 
+$(".printNews").append('<p>NUEVAS RECETAS</p>')
+
 $(document).ready( function(){
 
 	//La variable "recipesArray" esta declarada en el archivo "data/recipes.js"
